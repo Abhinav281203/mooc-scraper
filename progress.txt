@@ -1,0 +1,25 @@
+Finished and no class central links:
+    unified.json: (38910)
+        Cs - 6912
+        Science - 2875
+        Personal development - 4059
+        Health - 3761
+        Data science - 3242
+        Education - 2091
+        Programming - 11002
+        Humanities - 3774
+        Maths - 1194
+
+    unified_1.json: (11313)
+        Engineering - 3370
+        Business - 7943
+
+    unified_2.json:
+        Infosec - 1966
+
+Pending:
+    -- Kapardi
+    Art and design - 7156 / 19980
+
+    -- Aditya
+    Social science - 0 / 3795
